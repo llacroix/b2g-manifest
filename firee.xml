@@ -27,6 +27,7 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="b2g_jb_3.2"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="jb_3.2.5_rb1.7"/>
   <project name="platform/hardware/qcom/wlan" path="hardware/qcom/wlan" revision="jb_3.2.5_rb1.7"/>
+  <project name="platform/hardware/qcom/sensors" path="hardware/qcom/sensors" revision="jb_3.2.5_rb1.7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="b2g_jb_3.2"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="b2g_jb_3.2"/>
   <project name="platform/system/core" path="system/core" revision="b2g_jb_3.2"/>
