@@ -5,6 +5,10 @@
   <remote name="llacroix" fetch="git://github.com/llacroix/"/>
   <default remote="caf" revision="jb_3.2" sync-j="4"/>
 
+  <!-- B2G specific -->
+  <project name="gecko.git" path="gecko" remote="mozillaorg" revision="master" />
+  <project name="gaia" path="gaia" remote="mozillaorg" revision="master"/>
+
   <!-- Flame specific things -->
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
   <project name="device/qcom/common" path="device/qcom/common" revision="b2g_jb_3.2"/>
