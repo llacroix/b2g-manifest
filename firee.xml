@@ -15,7 +15,7 @@
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
   <project name="device/qcom/common" path="device/qcom/common" revision="b2g_jb_3.2"/>
   <project name="device-firee" path="device/alcatel/firee" remote="llacroix" revision="master"/>
-  <project name="codeaurora_kernel_msm" path="kernel" remote="b2g" revision="t2m-flame-3.4-jb"/>
+  <project name="codeaurora_kernel_msm" path="kernel" remote="llacroix" revision="ot-6015x"/>
   <project name="kernel_lk" path="bootable/bootloader/lk" remote="b2g" revision="foxfone-one"/>
   <project name="platform_bootable_recovery" path="bootable/recovery" remote="b2g" revision="foxfone-one"/>
   <project name="platform/external/bluetooth/bluedroid" path="external/bluetooth/bluedroid" revision="b2g_jb_3.2"/>
