@@ -26,6 +26,7 @@
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
 
   <!-- caf remote custom revision-->
+  <project name="platform_system_bluetoothd" path="system/bluetoothd" remote="b2g" revision="master"/>
   <project name="device/qcom/common" path="device/qcom/common" revision="b2g_jb_3.2"/>
   <project name="platform/external/bluetooth/bluedroid" path="external/bluetooth/bluedroid" revision="b2g_jb_3.2"/>
   <project name="platform/external/bluetooth/bluez" path="external/bluetooth/bluez" revision="b2g/jb_mr1_rb2.17"/>
